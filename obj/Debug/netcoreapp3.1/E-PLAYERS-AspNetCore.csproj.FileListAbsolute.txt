@@ -1,0 +1,155 @@
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.exe
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.deps.json
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.json
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.dev.json
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.dll
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfo.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.input.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.output.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorCoreGenerate.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.xml
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.genruntimeconfig.cache
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CopyComplete
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.input.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.output.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorCoreGenerate.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.Manifest.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.xml
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.genruntimeconfig.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CopyComplete
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.input.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.output.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorCoreGenerate.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.Manifest.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.xml
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.genruntimeconfig.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula35AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CopyComplete
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.exe
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.dll
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\bin\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorAssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.input.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.TagHelpers.output.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorCoreGenerate.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.Views.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.Manifest.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-PLAYERS-AspNetCore.StaticWebAssets.xml
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.dll
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.genruntimeconfig.cache
+C:\Users\duart\OneDrive\Área de Trabalho\E_PLAYERS_AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CopyComplete
